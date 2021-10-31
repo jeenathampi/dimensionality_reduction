@@ -1,6 +1,6 @@
 # dimensionality_reduction_assignment
 
-##The chosen image dataset for dimensionality reduction was sign language dataset.
+## The chosen image dataset for dimensionality reduction was sign language dataset.
 
 PCA did not work quite well in categorizing the different signs. Chose number of dimensions as 2 and 3. As seen from the above the graph the clusters were not separated that much. The execution time was the best.
 
@@ -14,7 +14,7 @@ ISOMAP worked better than PCA and SVD in separating out the clusters. The execut
 
 
 
-##The chosen tabular dataset for dimensionality reduction was breast cancer dataset.
+## The chosen tabular dataset for dimensionality reduction was breast cancer dataset.
 
 PCA worked better for tabular dataset in giving separate clusters.
 
